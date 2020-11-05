@@ -1,0 +1,12 @@
+/home/sabira/git-repository/loylty-retail/task-processor/src/main/java/com/loylty/retail/task/processor/model/TaskOperation.java
+/home/sabira/git-repository/loylty-retail/task-processor/src/main/java/com/loylty/retail/task/processor/enums/ExpressionTaskOperation.java
+/home/sabira/git-repository/loylty-retail/task-processor/src/main/java/com/loylty/retail/task/processor/enums/TaskType.java
+/home/sabira/git-repository/loylty-retail/task-processor/src/main/java/com/loylty/retail/task/processor/enums/Status.java
+/home/sabira/git-repository/loylty-retail/task-processor/src/main/java/com/loylty/retail/task/processor/entities/Task.java
+/home/sabira/git-repository/loylty-retail/task-processor/src/main/java/com/loylty/retail/task/processor/enums/InvalidTaskOperation.java
+/home/sabira/git-repository/loylty-retail/task-processor/src/main/java/com/loylty/retail/task/processor/enums/OperationType.java
+/home/sabira/git-repository/loylty-retail/task-processor/src/main/java/com/loylty/retail/task/processor/enums/FunctionTaskOperation.java
+/home/sabira/git-repository/loylty-retail/task-processor/src/main/java/com/loylty/retail/task/processor/repository/TaskRepository.java
+/home/sabira/git-repository/loylty-retail/task-processor/src/main/java/com/loylty/retail/task/processor/model/Operation.java
+/home/sabira/git-repository/loylty-retail/task-processor/src/main/java/com/loylty/retail/task/processor/TaskProcessorContext.java
+/home/sabira/git-repository/loylty-retail/task-processor/src/main/java/com/loylty/retail/task/processor/ProcessorMain.java

@@ -1,0 +1,12 @@
+com/loylty/retail/task/processor/enums/ExpressionTaskOperation.class
+com/loylty/retail/task/processor/enums/Status.class
+com/loylty/retail/task/processor/enums/InvalidTaskOperation.class
+com/loylty/retail/task/processor/ProcessorMain.class
+com/loylty/retail/task/processor/TaskProcessorContext.class
+com/loylty/retail/task/processor/enums/OperationType.class
+com/loylty/retail/task/processor/model/Operation.class
+com/loylty/retail/task/processor/repository/TaskRepository.class
+com/loylty/retail/task/processor/entities/Task.class
+com/loylty/retail/task/processor/enums/FunctionTaskOperation.class
+com/loylty/retail/task/processor/model/TaskOperation.class
+com/loylty/retail/task/processor/enums/TaskType.class
